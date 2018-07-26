@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\W3E10\.android\build-cache\9023f707707ce27a7cc685ef841281d148a52dc3\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\W3E10\.android\build-cache\c49c91e4c0ad0c7396c1f6071e5a9c880b2c2f0e\output\AndroidManifest.xml:21:5-66
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.7] C:\Users\W3E10\.android\build-cache\1ab9e60b1214ff572989400676cbfaf8905c3e4e\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.1.6] C:\Users\W3E10\.android\build-cache\df2a5f4760c610157dba2b32093f56cc74e03c84\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.10] C:\Users\W3E10\.android\build-cache\fd716e16ebd44849871c06d768c0b042a23a3fb2\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.8] C:\Users\W3E10\.android\build-cache\1e5480e29887f2f37b2e3ac380a1db6ff50785fd\output\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.12] C:\Users\W3E10\.android\build-cache\536dbd6a66dba14f8b9ed6d7b9d763d1bd7ac3fd\output\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\W3E10\.android\build-cache\9023f707707ce27a7cc685ef841281d148a52dc3\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\W3E10\.android\build-cache\c49c91e4c0ad0c7396c1f6071e5a9c880b2c2f0e\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\W3E10\.android\build-cache\0f93244752b3114fd279972b093e0884a19de91a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\W3E10\.android\build-cache\da005e7f938d2c0c02cfe514af5a4e68f5b6c512\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\W3E10\.android\build-cache\30baa2ff0fbccf0364e220047ad848bce592fd40\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W3E10\.android\build-cache\98c0921fd4ca3f1fdd8e803ca8f72e84c41681c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W3E10\.android\build-cache\54b42323680d8ecbe40ec407c4247fbd96cad8f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W3E10\.android\build-cache\8dfb4b734a21b1f01a398d78c1a62d39161a8f55\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W3E10\.android\build-cache\761ef29ef5a5040c9eaf4a914cc2160ba9e170f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W3E10\.android\build-cache\9d9c135454bf452d146bb7a3a71720e37aad2a45\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W3E10\.android\build-cache\3de549592eefad8d1e3e5d983804922b83de2779\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W3E10\.android\build-cache\5e6777177a4cb377eb413c20b53ea634a7cb95bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W3E10\.android\build-cache\97d12f189f0f97b93fd65088998e3609a433b11e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W3E10\.android\build-cache\ffde82393b3899be244376050f5764fe48dfe24f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\W3E10\.android\build-cache\b7e0d2418a6c8bd5563d33443ae52669db7fb2ab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.7] C:\Users\W3E10\.android\build-cache\1ab9e60b1214ff572989400676cbfaf8905c3e4e\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.1.6] C:\Users\W3E10\.android\build-cache\df2a5f4760c610157dba2b32093f56cc74e03c84\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.10] C:\Users\W3E10\.android\build-cache\fd716e16ebd44849871c06d768c0b042a23a3fb2\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.8] C:\Users\W3E10\.android\build-cache\1e5480e29887f2f37b2e3ac380a1db6ff50785fd\output\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.12] C:\Users\W3E10\.android\build-cache\536dbd6a66dba14f8b9ed6d7b9d763d1bd7ac3fd\output\AndroidManifest.xml:27:5-20
+MERGED from [com.jakewharton.timber:timber:4.1.2] C:\Users\W3E10\.android\build-cache\a0a587f0e31ecf9995ebeabc913347039d18e704\output\AndroidManifest.xml:8:5-20
+	android:label
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:9:9-47
+activity#uk.co.ribot.androidboilerplate.ui.main.MainActivity
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:15:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:20:27-74
+service#uk.co.ribot.androidboilerplate.data.SyncService
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:24:18-50
+receiver#uk.co.ribot.androidboilerplate.data.SyncService$SyncOnConnectionAvailable
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:enabled
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:27:13-71
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:29:13-31:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml:30:25-76
+uses-sdk
+INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\W3E10\.android\build-cache\9023f707707ce27a7cc685ef841281d148a52dc3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\W3E10\.android\build-cache\c49c91e4c0ad0c7396c1f6071e5a9c880b2c2f0e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\W3E10\.android\build-cache\0f93244752b3114fd279972b093e0884a19de91a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\W3E10\.android\build-cache\da005e7f938d2c0c02cfe514af5a4e68f5b6c512\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\W3E10\.android\build-cache\30baa2ff0fbccf0364e220047ad848bce592fd40\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W3E10\.android\build-cache\98c0921fd4ca3f1fdd8e803ca8f72e84c41681c4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W3E10\.android\build-cache\54b42323680d8ecbe40ec407c4247fbd96cad8f4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W3E10\.android\build-cache\8dfb4b734a21b1f01a398d78c1a62d39161a8f55\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W3E10\.android\build-cache\761ef29ef5a5040c9eaf4a914cc2160ba9e170f5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W3E10\.android\build-cache\9d9c135454bf452d146bb7a3a71720e37aad2a45\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W3E10\.android\build-cache\3de549592eefad8d1e3e5d983804922b83de2779\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W3E10\.android\build-cache\5e6777177a4cb377eb413c20b53ea634a7cb95bc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W3E10\.android\build-cache\685aa34cd50a4f992ac759b19b5da8fdf6c6e89b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W3E10\.android\build-cache\97d12f189f0f97b93fd65088998e3609a433b11e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W3E10\.android\build-cache\ffde82393b3899be244376050f5764fe48dfe24f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\W3E10\.android\build-cache\b7e0d2418a6c8bd5563d33443ae52669db7fb2ab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.squareup.sqlbrite2:sqlbrite:2.0.0] C:\Users\W3E10\.android\build-cache\2cad414ffa61b10e0f16efd5422d19dbab09e163\output\AndroidManifest.xml:6:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\W3E10\.android\build-cache\f4cc38b56808881384c57b43aa88fdfda3eb370b\output\AndroidManifest.xml:19:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.5.7] C:\Users\W3E10\.android\build-cache\1ab9e60b1214ff572989400676cbfaf8905c3e4e\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.1.6] C:\Users\W3E10\.android\build-cache\df2a5f4760c610157dba2b32093f56cc74e03c84\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.10] C:\Users\W3E10\.android\build-cache\fd716e16ebd44849871c06d768c0b042a23a3fb2\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.8] C:\Users\W3E10\.android\build-cache\1e5480e29887f2f37b2e3ac380a1db6ff50785fd\output\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.12] C:\Users\W3E10\.android\build-cache\536dbd6a66dba14f8b9ed6d7b9d763d1bd7ac3fd\output\AndroidManifest.xml:23:5-43
+MERGED from [com.jakewharton.timber:timber:4.1.2] C:\Users\W3E10\.android\build-cache\a0a587f0e31ecf9995ebeabc913347039d18e704\output\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\W3E10\.android\build-cache\9f58bb0337eb88afea586f5d630ca2bdd10fd6d5\output\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W3E10\.android\build-cache\98c0921fd4ca3f1fdd8e803ca8f72e84c41681c4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\W3E10\AndroidStudioProjects\android-boilerplate\app\src\debug\AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\W3E10\.android\build-cache\9023f707707ce27a7cc685ef841281d148a52dc3\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\W3E10\.android\build-cache\c49c91e4c0ad0c7396c1f6071e5a9c880b2c2f0e\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\W3E10\.android\build-cache\9023f707707ce27a7cc685ef841281d148a52dc3\output\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\W3E10\.android\build-cache\0f93244752b3114fd279972b093e0884a19de91a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\W3E10\.android\build-cache\0f93244752b3114fd279972b093e0884a19de91a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\W3E10\.android\build-cache\0f93244752b3114fd279972b093e0884a19de91a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\W3E10\.android\build-cache\0f93244752b3114fd279972b093e0884a19de91a\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\W3E10\.android\build-cache\30baa2ff0fbccf0364e220047ad848bce592fd40\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\W3E10\.android\build-cache\30baa2ff0fbccf0364e220047ad848bce592fd40\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\W3E10\.android\build-cache\30baa2ff0fbccf0364e220047ad848bce592fd40\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W3E10\.android\build-cache\98c0921fd4ca3f1fdd8e803ca8f72e84c41681c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\W3E10\.android\build-cache\54b42323680d8ecbe40ec407c4247fbd96cad8f4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\W3E10\.android\build-cache\8dfb4b734a21b1f01a398d78c1a62d39161a8f55\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\W3E10\.android\build-cache\761ef29ef5a5040c9eaf4a914cc2160ba9e170f5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\W3E10\.android\build-cache\9d9c135454bf452d146bb7a3a71720e37aad2a45\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\W3E10\.android\build-cache\3de549592eefad8d1e3e5d983804922b83de2779\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\W3E10\.android\build-cache\5e6777177a4cb377eb413c20b53ea634a7cb95bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\W3E10\.android\build-cache\685aa34cd50a4f992ac759b19b5da8fdf6c6e89b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\W3E10\.android\build-cache\97d12f189f0f97b93fd65088998e3609a433b11e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\W3E10\.android\build-cache\ffde82393b3899be244376050f5764fe48dfe24f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\W3E10\.android\build-cache\b7e0d2418a6c8bd5563d33443ae52669db7fb2ab\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W3E10\.android\build-cache\98c0921fd4ca3f1fdd8e803ca8f72e84c41681c4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\W3E10\.android\build-cache\98c0921fd4ca3f1fdd8e803ca8f72e84c41681c4\output\AndroidManifest.xml:26:9-47

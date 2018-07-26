@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:exposed-instrumentation-api-publish-0.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9bb0cd65f6488f6748ab4a4e470c19e1addeca94/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9bb0cd65f6488f6748ab4a4e470c19e1addeca94/output/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/sdk/sdk/extras/android/m2repository/com/android/support/test/exposed-instrumentation-api-publish/0.4.1/exposed-instrumentation-api-publish-0.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/sdk/sdk/extras/android/m2repository/com/android/support/test/exposed-instrumentation-api-publish/0.4.1/exposed-instrumentation-api-publish-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
